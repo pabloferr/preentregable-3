@@ -1,0 +1,90 @@
+.logo{
+    width: 25rem;
+    background-color: #30e021;
+}
+
+.logo-wsp{
+    width: 55px;
+    bottom: -450px;
+    right: 50px;
+}
+
+.logo-wsp{
+    transition: all 1s;
+    position: absolute;
+}
+
+.logo-wsp:hover{
+    transform: rotate(360deg);
+}
+
+.papas1{
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+.papas1{
+    width: 50%;
+    height: 90%;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.papas1 img:hover{
+    transform: scale(1.2);
+}
+
+.papas2{
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+.papas2{
+    width: 50%;
+    height: 100%;
+    transition: 0.5s;
+    object-fit: cover;
+}
+
+.papas2 img:hover{
+    transform: scale(1.2);
+}
+
+.foto{
+    width: 500px;
+    background-size: cover;
+}
+
+.logowsp{
+    width: 55px;
+    bottom: 30px;
+    right: 50px;
+}
+
+.logowsp{
+    transition: all 1s;
+    position: absolute;
+}
+
+.logowsp:hover{
+    transform: rotate(360deg);
+}
+
+.logowsp{
+    width: 55px;
+    bottom: 50px;
+    right: 50px;
+}
+
+.logo-wsp{
+    transition: all 1s;
+    position: absolute;
+}
+
+.logo-wsp:hover{
+    transform: rotate(360deg);
+}

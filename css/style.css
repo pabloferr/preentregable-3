@@ -1,0 +1,176 @@
+body {
+  background-color: #b40e21; }
+
+.navbar-expand-lg {
+  background-color: #30e021 !important; }
+
+h2 {
+  text-align: center;
+  color: white; }
+
+.titulo1 {
+  display: flex;
+  justify-content: space-around;
+  text-align: center; }
+
+.titulo2 {
+  display: flex;
+  justify-content: space-around;
+  text-align: center; }
+
+.fondo {
+  background-color: #ffc63b; }
+
+.body {
+  background-image: url(../img/Mambo_Mezclar_Hamburguesas-veganas_RRSS.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; }
+
+.titulo-1 {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  color: #56dd45; }
+
+.titulo-2 {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  color: #56dd45; }
+
+header {
+  display: flex;
+  justify-content: space-around;
+  text-align: center; }
+
+header p {
+  font-size: 3rem; }
+
+.foto {
+  width: 500px;
+  background-size: cover;
+  transform: rotateY(200px); }
+
+.prueba {
+  width: 500px;
+  transform: translate(-150px, 100px);
+  background-size: cover; }
+
+div h5 {
+  font-size: 2rem;
+  color: white; }
+
+div p {
+  font-size: 1.2rem;
+  color: black;
+  font-family: 'Open Sans', sans-serif; }
+
+h2 {
+  background-color: #232223;
+  color: white;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  font-family: 'Caprasimo', cursive;
+  font-size: 3rem; }
+
+.tuspapas {
+  background-color: #232223;
+  color: white;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  font-family: 'Caprasimo', cursive;
+  font-size: 2rem; }
+
+.nuevos {
+  background-color: #232223;
+  color: white;
+  font-family: 'Caprasimo', cursive;
+  text-align: center;
+  display: flex;
+  justify-content: space-around; }
+
+.nuevos {
+  background-color: #232223;
+  color: white;
+  font-family: 'Caprasimo', cursive;
+  text-align: center;
+  display: flex;
+  justify-content: space-around; }
+
+.logo {
+  width: 25rem;
+  background-color: #30e021; }
+
+.logo-wsp {
+  width: 55px;
+  bottom: -450px;
+  right: 50px; }
+
+.logo-wsp {
+  transition: all 1s;
+  position: absolute; }
+
+.logo-wsp:hover {
+  transform: rotate(360deg); }
+
+.papas1 {
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+  margin: 20px; }
+
+.papas1 {
+  width: 50%;
+  height: 90%;
+  transition: 0.5s;
+  object-fit: cover; }
+
+.papas1 img:hover {
+  transform: scale(1.2); }
+
+.papas2 {
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+  margin: 20px; }
+
+.papas2 {
+  width: 50%;
+  height: 100%;
+  transition: 0.5s;
+  object-fit: cover; }
+
+.papas2 img:hover {
+  transform: scale(1.2); }
+
+.foto {
+  width: 500px;
+  background-size: cover; }
+
+.logowsp {
+  width: 55px;
+  bottom: 30px;
+  right: 50px; }
+
+.logowsp {
+  transition: all 1s;
+  position: absolute; }
+
+.logowsp:hover {
+  transform: rotate(360deg); }
+
+.logowsp {
+  width: 55px;
+  bottom: 50px;
+  right: 50px; }
+
+.logo-wsp {
+  transition: all 1s;
+  position: absolute; }
+
+.logo-wsp:hover {
+  transform: rotate(360deg); }

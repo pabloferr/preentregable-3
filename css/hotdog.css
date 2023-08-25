@@ -1,0 +1,53 @@
+.fondo{
+    background-color:#ffc63b ;
+}
+
+h1{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+h2{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+header{
+    font-size: 3rem;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.foto{
+    width: 500px;
+    background-size: cover;
+}
+
+.prueba{
+    width: 500px;
+    transform: translate(-150px, 100px);
+    background-size: cover;
+
+}
+
+.navbar-expand-lg{
+    background-color: #b40e21 !important;
+} 
+
+.logo-wsp{
+    width: 55px;
+    bottom: -300px;
+    right: 50px;
+}
+
+.logo-wsp{
+    transition: all 1s;
+    position: absolute;
+}
+
+.logo-wsp:hover{
+    transform: rotate(360deg);
+}

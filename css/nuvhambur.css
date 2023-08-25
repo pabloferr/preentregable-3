@@ -1,0 +1,56 @@
+
+body{
+    background-color: #b40e21;
+}
+
+.titulo-1{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    color: #56dd45;
+}
+
+.titulo-2{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    color: #56dd45;
+}
+
+.body{
+    background-image: url(../img/Mambo_Mezclar_Hamburguesas-veganas_RRSS.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logowsp{
+    width: 55px;
+    bottom: 30px;
+    right: 50px;
+}
+
+.logowsp{
+    transition: all 1s;
+    position: absolute;
+}
+
+.logowsp:hover{
+    transform: rotate(360deg);
+}
+
+.logowsp{
+    width: 55px;
+    bottom: 50px;
+    right: 50px;
+}
+
+.logo-wsp{
+    transition: all 1s;
+    position: absolute;
+}
+
+.logo-wsp:hover{
+    transform: rotate(360deg);
+}

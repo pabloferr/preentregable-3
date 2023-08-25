@@ -1,0 +1,45 @@
+body{
+    background-color: #b40e21;
+}
+
+.titulo1{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Open Sans', sans-serif;
+}
+
+.titulo2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Open Sans', sans-serif;
+}
+
+header img{
+    width: 200px;
+    transform: translatex(650px);
+    
+}
+
+.fotocarusel{
+    width: 100px;
+}
+
+
+main{
+}
+
+.navbar-expand-lg{
+    background-color: #30e021 !important;
+} 
+
+.nuevos{
+    background-color: #232223;
+    color: white;
+    font-family: 'Caprasimo', cursive;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+

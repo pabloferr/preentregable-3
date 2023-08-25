@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+header p{
+    font-size: 3rem;
+}
+
+.foto{
+    width: 500px;
+    background-size: cover;
+    transform: rotateY(200px);
+}
+
+.prueba{
+    width: 500px;
+    transform: translate(-150px, 100px);
+    background-size: cover;
+
+}
